@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Bingo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">1284687128394353</string>
+    <string name="fb_login_protocol_scheme">fb1284687128394353</string>
+    <string name="title_activity_comments">CommentsActivity</string>
+    <string name="movie_title"><![CDATA[Fantastic Beast & Where to Find Them]]></string>
+    <string name="movie_duration">2h 13min</string>
+    <string name="movie_genre">Adventure, Fantasy, Action</string>
+    <string name="movie_ticket_number">400&#8211;2000&#8211;2020</string>
+    <string name="date">Date</string>
+    <string name="movie_date">01&#8211;03&#8211;2017</string>
+    <string name="time">Time</string>
+    <string name="movie_time">23:30</string>
+    <string name="seat">Seat</string>
+    <string name="movie_seat">C5-C8</string>
+    <string name="action_settings">Settings</string>
+    <string name="profile_desc">Rowan Sebastian Atkinson CBE is an English actor,  comedian and screenwriter</string>
+    <string name="profile_title">Mr Bean</string>
+    <string name="posts">posts</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="msg_error_unable_select_profile_pic">Unable to set profile image. Please try again!</string>
+    <string name="lbl_set_profile_photo">Set profile image</string>
+    <string name="lbl_take_camera_picture">Take a picture</string>
+    <string name="lbl_choose_from_gallery">Choose from gallery</string>
+    <string name="toast_image_intent_null">Image picker option is missing!</string>
+    <string name="login_screen_signup_text">"Don't have an Account?"</string>
+    <string name="login_screen_forgot_password_text">Forgot your login details?</string>
+    <string name="login_screen_login_with_facebook_text">Login using Facebook</string>
+    <string name="text_signup">Sign Up</string>
+    <string name="text_email">email</string>
+    <string name="text_password">Password</string>
+    <string name="text_login">Log In</string>
+    <string name="text_terms">I Accept all Terms and Conditions</string>
+    <string name="text_already_account">Already have an Account?</string>
+    <string name="text_quote_p1">I know it piss you off to see me</string>
+    <string name="text_quote_p2">"  winnin'"</string>
+    <string name="text_username">username</string>
+    <string name="text_setup_later">"I'll setup my Account later?"</string>
+    <string name="text_skip">Skip</string>
+    <string name="text_copyright">copyright 2019</string>
+    <string name="text_company_name">"  NiMus corp."</string>
+    <string name="text_landing_page">click the link inside it to verify your mail and continue usage</string>
+    <string name="text_landing_page_2">"I've verfied my email"</string>
+    <string name="text_check">check</string>
+    <string name="text_followers">Followers</string>
+    <string name="text_following">Following</string>
+    <string name="text_likes">Likes</string>
+    <string name="text_edit_profile">Edit profile</string>
+    <string name="text_profile">Profile</string>
+    <string name="text_save">Save</string>
+    <string name="text_fullname">Full name</string>
+    <string name="text_proflilephoto">Profile Photo</string>
+    <string name="text_profilevideo">Profile Video</string>
+    <string name="text_editProfile_one">Can only contain letters, and numbers.This will be visible to other users also</string>
+    <string name="text_editprofile_three">this will only be visible to users visiting your profile</string>
+    <string name="text_edittext_profile_two">"Once you change your registered email, you have to confirm new email to continue usage.This won't be visible to other users"</string>
+
+    <!-- font families -->
+    <string name="font_family_light">sans-serif-light</string>
+    <string name="font_family_medium">sans-serif-medium</string>
+    <string name="font_family_regular">sans-serif</string>
+    <string name="font_family_condensed">sans-serif-condensed</string>
+    <string name="font_family_black">sans-serif-black</string>
+    <string name="font_family_thin">sans-serif-thin</string>
+    <string name="dialog_permission_title">Grant Permissions</string>
+    <string name="dialog_permission_message">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="go_to_settings">GOTO SETTINGS</string>
+
+</resources>
